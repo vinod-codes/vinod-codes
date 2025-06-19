@@ -4,7 +4,7 @@
   
 [![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://bytebyvinod.vercel.app/)
 
-<img src="https://i.postimg.cc/rwZZn2NJ/Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner.png" alt="aboutme" width="800px" style="border-radius: 40px;">
+<img src="https://i.postimg.cc/MZM7CdhW/Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner-2.png" alt="aboutme" width="800px" style="border-radius: 40px;">
 
 </div>
 
@@ -29,7 +29,7 @@
 ## 🚀 Projects
 
 <div align="center">
-  <img src="https://i.postimg.cc/zBsgFgFn/Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner-1.png" alt="Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner-1" width="800px" style="border-radius: 40px;">
+  <img src="https://i.postimg.cc/zXTcrJ9X/Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner-1-1.png" alt="Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner-1" width="800px" style="border-radius: 40px;">
 </div>
 
 <table align="center">
