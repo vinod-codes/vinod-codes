@@ -4,14 +4,13 @@
   
 [![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://bytebyvinod.vercel.app/)
 
-<img src="https://i.postimg.cc/rwZZn2NJ/Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner.png" alt="aboutme" width="800px" style="border-radius: 40px;">
+<img src="https://i.postimg.cc/MZM7CdhW/Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner-2.png" alt="aboutme" width="800px" style="border-radius: 40px;">
 
 </div>
 
 <div align="center">
   <p><strong>Hey there!</strong> 👋<br>
   I'm Vinod, a DevOps enthusiast who learned everything from open source resources and the amazing tech community.<br>
-  <b>Special thanks to <a href="https://github.com/NotHarshhaa" target="_blank">Harsha</a> for his inspiration, mentorship, and open sharing of knowledge!</b>
   </p>
 </div>
 
@@ -22,14 +21,14 @@
 - 🌱 Self-taught DevOps Engineer, learning from open source and community resources
 - 💡 Passionate about automation, cloud, and building scalable solutions
 - 🤝 Always open to collaboration and sharing knowledge
-- 🙏 Inspired and guided by [Harsha](https://github.com/NotHarshhaa) and the open source community
+- 🙏 Inspired and guided by the open source community
 
 ---
 
 ## 🚀 Projects
 
 <div align="center">
-  <img src="https://i.postimg.cc/zBsgFgFn/Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner-1.png" alt="Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner-1" width="800px" style="border-radius: 40px;">
+  <img src="https://i.postimg.cc/zXTcrJ9X/Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner-1-1.png" alt="Blue-Geometric-Illustration-Graphic-Designer-Linked-In-Banner-1" width="800px" style="border-radius: 40px;">
 </div>
 
 <table align="center">
@@ -119,8 +118,7 @@
 ---
 
 <div align="center">
-  <sub>Thank you for visiting my profile! 🚀<br>
-  <b>Big thanks to <a href="https://github.com/NotHarshhaa" target="_blank">Harsha</a> and the open source community!</b></sub>
+  <sub>Thank you for visiting my profile! 🚀</sub>
 </div>
 
 ## 🌐 DevOps Learning Hub
