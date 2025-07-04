@@ -11,10 +11,6 @@
 <div align="center">
   <p><strong>Hey there!</strong> 👋<br>
   I'm Vinod, a DevOps enthusiast who learned everything from open source resources and the amazing tech community.<br>
-<<<<<<< HEAD
-=======
-  <b>Special thanks to <a href="https://github.com/NotHarshhaa" target="_blank">Harsha</a> for his inspiration, mentorship, and open sharing of knowledge!</b>
->>>>>>> 5a227a63a850727f34c1ff6ddd37017f7ebe138c
   </p>
 </div>
 
@@ -25,11 +21,7 @@
 - 🌱 Self-taught DevOps Engineer, learning from open source and community resources
 - 💡 Passionate about automation, cloud, and building scalable solutions
 - 🤝 Always open to collaboration and sharing knowledge
-<<<<<<< HEAD
 - 🙏 Inspired and guided by the open source community
-=======
-- 🙏 Inspired and guided by [Harsha](https://github.com/NotHarshhaa) and the open source community
->>>>>>> 5a227a63a850727f34c1ff6ddd37017f7ebe138c
 
 ---
 
@@ -126,12 +118,7 @@
 ---
 
 <div align="center">
-<<<<<<< HEAD
   <sub>Thank you for visiting my profile! 🚀</sub>
-=======
-  <sub>Thank you for visiting my profile! 🚀<br>
-  <b>Big thanks to <a href="https://github.com/NotHarshhaa" target="_blank">Harsha</a> and the open source community!</b></sub>
->>>>>>> 5a227a63a850727f34c1ff6ddd37017f7ebe138c
 </div>
 
 ## 🌐 DevOps Learning Hub
