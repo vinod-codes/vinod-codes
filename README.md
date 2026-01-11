@@ -40,61 +40,18 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/vinod-codes/AWS-EKS_Terraform"><b>AWS Terraform Workshop</b></a></td>
-      <td>Beginner-friendly guide to setting up AWS infrastructure using Terraform.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/tf-ecr-ecs-gh-deploy"><b>ECR to ECS Deployment with GitHub Actions</b></a></td>
-      <td>Automated deployment of a Python application to AWS ECS using GitHub Actions, Docker, and Terraform.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/eks-cluster-terraform"><b>Amazon EKS Cluster with Terraform</b></a></td>
-      <td>Terraform-based provisioning of an Amazon EKS Cluster for Kubernetes deployments.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/CI-CD_EKS-GitHub_Actions"><b>CI/CD on EKS using GitHub Actions</b></a></td>
-      <td>CI/CD pipeline for deploying a Node.js app on Amazon EKS using GitHub Actions, Terraform, and Kubernetes.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/Certified_Kubernetes_Administrator"><b>Certified Kubernetes Administrator (CKA) Prep</b></a></td>
-      <td>Master Kubernetes from scratch and prepare for the CKA certification.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/kubernetes-dashboard"><b>Secure Kubernetes Dashboard</b></a></td>
-      <td>Kubernetes dashboard with integrated health checks and Trivy scanning.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/uber-clone"><b>Uber Clone with DevSecOps</b></a></td>
-      <td>Full-stack Uber-like transportation application with DevSecOps integration.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/Deployment-of-super-Mario-on-Kubernetes-using-terraform"><b>Deploy Super Mario on EKS</b></a></td>
-      <td>Deploy Super Mario game on Amazon EKS using Terraform.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/cloud-native-monitoring-app"><b>Cloud-Native Monitoring App</b></a></td>
-      <td>Monitoring app built with Python, containerized with Docker, and deployed to EKS.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/Learning-Prometheus"><b>Learning Prometheus Monitoring</b></a></td>
-      <td>Repository for learning and implementing Prometheus monitoring in Kubernetes environments.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/docker-project1"><b>Docker Project</b></a></td>
-      <td>Comprehensive Docker project demonstrating containerization best practices.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/clone-and-run-magic"><b>Clone and Run Magic</b></a></td>
-      <td>Automated scripts for cloning and running projects with magic setup.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/interactive-code-mentor"><b>Interactive Code Mentor</b></a></td>
-      <td>Interactive learning platform for coding mentorship and guidance.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vinod-codes/terraform-zero-to-hero"><b>Terraform Zero to Hero</b></a></td>
-      <td>Complete Terraform learning path from beginner to advanced levels.</td>
-    </tr>
+  <td><a href="https://github.com/vinod-codes/AWS-EKS_Terraform"><b>AWS-EKS Terraform</b></a></td>
+  <td>Provision an Amazon EKS (Kubernetes) infrastructure using Terraform — includes VPC, nodes, IAM roles, and networking for real-world cloud deployments.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/vinod-codes/CI-CD_EKS-GitHub_Actions"><b>CI/CD on EKS using GitHub Actions</b></a></td>
+  <td>Complete DevOps pipeline: automated build, test, and deploy of a Node.js application to an EKS cluster using GitHub Actions and Terraform.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/vinod-codes/cloud-native-monitoring-app"><b>Cloud-Native Monitoring App</b></a></td>
+  <td>Monitoring platform for Kubernetes: containerized Python app deployed to EKS with integrated Prometheus and Grafana for observability.</td>
+</tr>
+
   </tbody>
 </table>
 
@@ -116,10 +73,14 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinod.k.network@outlook.com)
 
 ---
+---
 
-<div align="center">
-  <sub>Thank you for visiting my profile! 🚀</sub>
-</div>
+### 🙏 Acknowledgement
+
+A special shout-out to **[@NotHarshhaa](https://github.com/NotHarshhaa)**.  
+I learned a lot by studying his projects, and they helped me build and improve several of my own DevOps projects.  
+Really appreciate his effort in sharing high-quality work with the community.
+
 
 ## 🌐 DevOps Learning Hub
 
@@ -167,31 +128,6 @@ DevOps knowledge should be accessible to everyone. We believe in:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vinod.k.network@outlook.com)
 
 </div>
-
-## 📂 Featured Repositories
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Popular Projects
-- [DevOps Real-Time Projects](https://github.com/NotHarshhaa/DevOps-Projects.git)
-- [Kubernetes Learning Path](https://github.com/NotHarshhaa/kubernetes-learning-path.git)
-- [550+ DevOps Interview Questions](https://github.com/NotHarshhaa/DevOps-Interview-Questions)
-- [AWS DevOps Real-Time Deployment](https://github.com/NotHarshhaa/AWS-DevOps-Real-Time-Deployment)
-
-</td>
-<td width="50%">
-
-### 🔧 Tools & Guides
-- [CI/CD Pipeline for AWS EKS](https://github.com/NotHarshhaa/CI-CD_EKS-GitHub_Actions.git)
-- [DevOps Tool Installer](https://github.com/NotHarshhaa/DevOps-Tool-Installer)
-- [Azure DevOps Guide](https://github.com/NotHarshhaa/azure-all_in_one.git)
-- [DevOps Cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet)
-
-</td>
-</tr>
-</table>
 
 
 
